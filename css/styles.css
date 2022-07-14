@@ -89,6 +89,7 @@ body
     margin-top: 14px;
     font-size: 15px;
     font-family: Arial, Helvetica, sans-serif;
+    color: gray;
 
 }
 
@@ -133,6 +134,7 @@ body
     font-size: 20px;
     text-align: center;
     margin: 12px auto 0;
+    color: gray;
 
 }
 
@@ -161,7 +163,7 @@ body
 #sec3 .main .child .img
 {
 
-    padding: 43px 20px 0;
+    padding: 53px 5px 0;
 }
 
 #sec3 .main .child .text
@@ -185,4 +187,96 @@ body
     color: #707070;
     font-size: 18px;
     margin-top: 6px;
+}
+
+.images
+{
+    width: 90%;
+    display: flex;
+    margin: 100px auto;
+    justify-content: space-evenly;
+}
+
+.img img
+{
+    margin: 10px;
+}
+
+.rewards
+{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 22px;
+}
+
+.rewards p
+{
+    font-size: 12px;
+    margin-bottom: 40px;
+    color: gray;
+}
+
+.donate-fund
+{
+    justify-content: space-around;
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.donate-fund h3
+{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0px 20px;
+}
+
+.donate-fund p
+{
+    font-family: 'Times New Roman', Times, serif;
+    padding: 0px 20px;
+    color: gray;
+}
+
+.donate-fund a
+{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: tomato;
+    padding: 20px;
+    text-decoration: underline;
+}
+
+.media
+{
+    border: 2px solid #d9d9d9;
+    margin: 20px;
+    border-radius: 10px;
+    padding-bottom: 20px;
+}
+
+.end
+{
+
+    background: #0B0D17;
+    padding: 15px 0;
+}
+
+.end h3
+{
+    font-family: 'Niconne', cursive;
+    text-align: center;
+    font-size: 25px;
+    color: #EF233C;
+}
+
+.end p
+{
+    text-align: center;
+    color: white;
+}
+
+.end h5
+{
+    text-align: center;
+    color: palegreen;
 }
