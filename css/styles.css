@@ -147,7 +147,7 @@ body
     justify-content: space-evenly;
 }
 
-#sec3 .main .child
+#sec3 .main .help
 {
     width: 460px;
     height: 220px;
@@ -160,13 +160,13 @@ body
 }
 
 
-#sec3 .main .child .img
+#sec3 .main .help .pic
 {
 
     padding: 53px 5px 0;
 }
 
-#sec3 .main .child .text
+#sec3 .main .help .text
 {
 
     width: 290px;
@@ -174,14 +174,14 @@ body
     margin: auto 7px;
 }
 
-#sec3 .main .child .text h1
+#sec3 .main .help .text h1
 {
     font-family: inter, sans-serif;
     font-size: 20px;
     color: #121212;
 }
 
-#sec3 .main .child .text p
+#sec3 .main .help .text p
 {
     font-family: poppine, sans-serif;
     color: #707070;
