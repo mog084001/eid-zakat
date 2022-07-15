@@ -9,6 +9,7 @@ body
 .header
 {
     background-image: url(/images/Rectangle\ 1.png);
+    position: absolute;
     width: 100%;
     min-height: 100vh;
 
